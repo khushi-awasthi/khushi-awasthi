@@ -121,3 +121,9 @@ A web-based healthcare application designed to simplify **patient registration, 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khushi-awasthi&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Contribution Streak" />
 </p>
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khushi-awasthi/khushi-awasthi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
+</p>
