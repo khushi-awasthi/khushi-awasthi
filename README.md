@@ -45,6 +45,58 @@ Currently strengthening my skills in **JDBC, PostgreSQL, Spring Boot, and backen
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - Operating Systems (OS)
+
+## 🚀 Featured Projects
+
+### 🌱 [LifeCraft AI](https://github.com/khushi-awasthi/Gamified_LifeCraftAI)
+An AI-powered personal and professional growth platform combining **career development, productivity, wellness, and sustainability** into one ecosystem.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, AI-based analysis
+
+- 📄 Smart Resume Builder & ATS Analysis
+- 🎯 Skill Gap Detection & Learning Recommendations
+- 🎤 AI-Based Interview Preparation
+- 🛣️ Personalized Career Roadmaps
+- 🌍 Eco-friendly Habit Tracking
+- 🧘 Interactive Wellness & Journaling
+
+---
+
+### 💧 [Smart Reservoir Management System](https://github.com/khushi-awasthi/Smart-Reservoir-Management-System)
+A data-driven system that **predicts reservoir water levels and optimizes water release** using forecasting and optimization techniques.
+
+**Tech:** Python, LSTM, Genetic Algorithm, Tableau, Google Colab
+
+- 📈 Reservoir water-level forecasting
+- 🧬 Genetic Algorithm-based water release optimization
+- 📊 Data visualization and dashboarding
+- 💧 Focused on efficient water resource management
+
+---
+
+### 📚 [Library Management System – Java](https://github.com/khushi-awasthi/Library-Management-System-Java)
+A console-based Library Management System developed using **Java and Object-Oriented Programming** principles.
+
+**Tech:** Java, OOP, Collections Framework, File Handling, Exception Handling, Streams API
+
+- 📖 Book & student management
+- 🔄 Book issue/return tracking
+- ⏰ Due-date and fine calculation
+- 📊 Report generation
+- 💾 File-based data persistence
+
+---
+
+### 🏥 [Hospital Appointment System](https://github.com/khushi-awasthi/Hospital-appointment-system)
+A web-based healthcare application designed to simplify **patient registration, doctor management, and hospital appointment scheduling**.
+
+**Tech:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
+
+- 👤 Patient registration and login
+- 👨‍⚕️ Doctor management
+- 📅 Appointment scheduling and tracking
+- 🔐 Role-based functionality
+- 🗃️ Patient and appointment record management
 - System Design
 - Problem Solving
 
