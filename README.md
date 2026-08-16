@@ -122,3 +122,28 @@ A web-based healthcare application designed to simplify **patient registration, 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khushi-awasthi/khushi-awasthi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushiawasthi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://khushi-portfolio-five-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+
+## 🎯 Career Focus
+
+I'm focused on building a career in **Software Development**, with a growing interest in **Java Backend Development** and scalable application development.
+
+### 💡 Areas of Interest
+
+- ☕ Java & Backend Development
+- 🌐 REST API & Web Application Development
+- 🗄️ Database Design & SQL
+- 🧩 Data Structures & Problem Solving
+- 🏗️ System Design & Software Architecture
+- 🤖 Generative AI & AI-powered Applications
