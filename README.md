@@ -45,6 +45,8 @@ Currently strengthening my skills in **JDBC, PostgreSQL, Spring Boot, and backen
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - Operating Systems (OS)
+- System Design
+- Problem Solving
 
   ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,7 +105,6 @@ A web-based healthcare application designed to simplify **patient registration, 
 - 📅 Appointment scheduling and tracking
 - 🔐 Role-based functionality
 - 🗃️ Patient and appointment record management
-- System Design
-- Problem Solving
+
 
 
