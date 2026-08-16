@@ -116,11 +116,6 @@ A web-based healthcare application designed to simplify **patient registration, 
 - 🤖 **Generative AI** — Exploring AI APIs and practical AI integration
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushi-awasthi&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Contribution Streak" />
-</p>
 
 ## 📊 GitHub Contributions
 
