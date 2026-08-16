@@ -1,0 +1,24 @@
+name: Update GitHub Contribution Heatmap
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/github-contributions.svg
+          include-title: false
+          hide-keys: general,repositories,languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
