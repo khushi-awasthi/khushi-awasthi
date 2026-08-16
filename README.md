@@ -2,8 +2,11 @@
 
 ### MCA Graduate | Aspiring Software Developer
 
-I'm an MCA graduate with a strong foundation in **Java, DSA, SQL, and web development**.  
-Currently strengthening my skills in **JDBC, PostgreSQL, Spring Boot, and backend development** through hands-on projects and problem-solving.
+I'm an MCA graduate and aspiring Software Developer with a strong foundation in **Java, DSA, SQL, and web development**.
+
+Currently strengthening my skills in **Spring Boot, JDBC, PostgreSQL, Hibernate, and backend development** through hands-on projects and problem-solving.
+
+💻 Interested in building reliable, scalable, and practical software solutions.
 
 💻 Passionate about software development and learning new technologies.
 
@@ -135,15 +138,3 @@ A web-based healthcare application designed to simplify **patient registration, 
 </p>
 
 
-## 🎯 Career Focus
-
-I'm focused on building a career in **Software Development**, with a growing interest in **Java Backend Development** and scalable application development.
-
-### 💡 Areas of Interest
-
-- ☕ Java & Backend Development
-- 🌐 REST API & Web Application Development
-- 🗄️ Database Design & SQL
-- 🧩 Data Structures & Problem Solving
-- 🏗️ System Design & Software Architecture
-- 🤖 Generative AI & AI-powered Applications
