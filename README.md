@@ -115,10 +115,12 @@ A web-based healthcare application designed to simplify **patient registration, 
 - 🧩 **System Design** — Learning scalable software architecture
 - 🤖 **Generative AI** — Exploring AI APIs and practical AI integration
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-awasthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=khushi-awasthi&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Contribution Streak" />
 </p>
 
 <p align="center">
