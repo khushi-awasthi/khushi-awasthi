@@ -118,7 +118,11 @@ A web-based healthcare application designed to simplify **patient registration, 
 - 🧩 **System Design** — Learning scalable software architecture
 - 🤖 **Generative AI** — Exploring AI APIs and practical AI integration
 
+## 📊 GitHub Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khushi-awasthi/khushi-awasthi/main/images/github-contributions.svg" alt="GitHub Contributions" />
+</p>
 
 ## 🌐 Connect With Me
 
