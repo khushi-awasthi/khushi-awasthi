@@ -107,4 +107,20 @@ A web-based healthcare application designed to simplify **patient registration, 
 - 🗃️ Patient and appointment record management
 
 
+## 🌱 Currently Learning
 
+- ☕ **Spring Boot** — Building REST APIs and backend applications
+- 🔌 **JDBC & PostgreSQL** — Database connectivity and backend development
+- 🏗️ **Hibernate & JPA** — ORM and database interaction
+- 🧩 **System Design** — Learning scalable software architecture
+- 🤖 **Generative AI** — Exploring AI APIs and practical AI integration
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-awasthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushi-awasthi&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
+</p>
