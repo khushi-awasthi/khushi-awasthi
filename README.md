@@ -120,12 +120,6 @@ A web-based healthcare application designed to simplify **patient registration, 
 
 
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khushi-awasthi/khushi-awasthi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
