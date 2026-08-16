@@ -35,7 +35,7 @@ Currently strengthening my skills in **JDBC, PostgreSQL, Spring Boot, and backen
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
 ![AI APIs](https://img.shields.io/badge/AI%20API%20Integration-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-5A67D8?style=for-the-badge)
